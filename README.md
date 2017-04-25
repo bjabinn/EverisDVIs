@@ -1,5 +1,7 @@
 The idea of this project is to learn how to use new different technologies. Initially we’ll use just some of them but at the end I would like to us all these:
 •	SOLID principles
+![stack Overflow](https://github.com/bjabinn/EverisDVIs/blob/master/images/solidPrinciples.png)
+
  
 •	Unit Test (Live Unit Testing)
 o	https://www.visualstudio.com/en-us/docs/test/developer-testing/getting-started/getting-started-with-developer-testing
