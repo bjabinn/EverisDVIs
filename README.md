@@ -42,5 +42,10 @@ https://www.codeproject.com/articles/1065295/sql-server-table-and-column-naming-
 
 As you can still see there are some doubt about versions and they are because of checking compatibilities and integration approaches.
 
+Using those technologies we are creating a core application (Web API), a web application and a mobile one later on.
+
+The idea is to have a environment where we can register users, virtual machines, installed software inside these machines and register each log in and log out of the machines.
+
+
 Initial diagram model could be:
 ![ErDiagram](https://github.com/bjabinn/EverisDVIs/blob/master/images/ERdiagram.png)
