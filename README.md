@@ -52,19 +52,29 @@ Initial diagram model could be:
 
 Roadmap:
 •	Create sql scripts
+
 •	Create .NET Core Project in VS
+
 •	Create project structure: Service, EF, Web, Model, Repository projects
+
 •	Include & prepare EF in project
+
 ...
 
 1 Controller by View
 
 VIEWS to be implemented:
 •	General Layout (top, container and footer)
+
 •	Home View
+
 •	Virtual Machines Management
+
 •	Users Management (VirtualMachineId is a optional / favourite configuration for the user)
+
 •	Management of Environment & Assignment between both Entities
+
 •	Operations Management
+
 
 * VIEWS Drafts *
