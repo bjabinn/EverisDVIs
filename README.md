@@ -78,3 +78,5 @@ VIEWS to be implemented:
 
 
 * VIEWS Drafts *
+
+There is a Slack channel where we could chat a bit about the applications: #evervdis
