@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Api.Controllers
+namespace Gateway.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("gateway/[controller]")]
     public class ValuesController : Controller
     {
         // GET api/values
